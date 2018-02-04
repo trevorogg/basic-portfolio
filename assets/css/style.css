@@ -1,0 +1,15 @@
+body{
+
+}
+
+
+#wrapper{
+    width: 960px;
+    margin: 0 auto;
+    background-color: green;
+}
+
+#content{
+    width: 650px;
+    background-color: purple;
+}
